@@ -1,1 +1,3 @@
-var = 'Dana Makarova' echo '4var'
+var = "Dana Makarova"
+
+echo "$var"
