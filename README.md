@@ -1,4 +1,6 @@
 # stepik-id-printer
+![](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+
 Это проект для вывода моего персонального идентификатора на образовательной платформе stepik.org.
 +username.sh prints out my name and surname
 ## Возможности
@@ -35,3 +37,4 @@ int main() {
 | Платформа  | Ссылка | Отвечу за|
 | ------------- | ------------- | ------------- |
 | Почта  | jetonionst@gmail.com  | 24 часа |
+file
